@@ -1,5 +1,5 @@
 # MadnessTheBot
-'Madness the Bot' is a Twitter bot that runs on Repl.it and tweets final scores of D1 NCAA men's basketball games.
+Madness the Bot is a Twitter bot that runs on Repl.it and tweets final scores of D1 NCAA men's basketball games.
 
 Here is the Repl.it: https://repl.it/@joekreydt/MadnessTheBot10
 
